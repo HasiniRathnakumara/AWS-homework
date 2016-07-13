@@ -6,28 +6,27 @@ The six practicles I underwent as follows
 
 1. Create your first Amazon EC2 instance (Linux)
 
-link to it: 
-
+link to it: https://www.youtube.com/edit?video_id=fQ_oHkDH7cM
 
 2. Create your first Amazon EC2 instance (Winodows)
 
-link to it: https://youtu.be/zlVnIgqa9wc
+link to it: https://www.youtube.com/watch?v=gKP5qOaxc_Y
 
 3. Managing instance volume Using EBS
 
-link to it: 
+link to it: https://www.youtube.com/watch?v=ssRiaez9_Sw
 
 4. Create your first Amazon S3 bucket
 
-link to it: 
+link to it: https://www.youtube.com/watch?v=DMjML7kccvA
 
 5. Create an EBS-Backed (Linux AMI)
 
-link to it: 
+link to it: https://www.youtube.com/watch?v=I9AAlM0UjoU
 
 6. Create your first Amazon RDS Database
 
-link to it: 
+link to it: https://www.youtube.com/watch?v=FhItnyCUe9g
 
 The problems I faced during not having linux version was solved by using putty instead.This was a really amazing opportunity for us to work with cloud academy.They were much user friendly and can understand what to do very clearly.
 
