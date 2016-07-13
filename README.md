@@ -1,4 +1,4 @@
-First I logged into cloud academy snd learned lessions under the videos.Then I created an account in Amazon Web Service and logged into it.I did practicels in AWS which relavent to cloud academy practicles.
+First I logged into cloud academy and learned lessions under the videos.Then I created an account in Amazon Web Service and logged into it.I did practicels in AWS which relavent to cloud academy practicles.
 
 The most challange I faced was to record the practicels I was doing.So I underwent so many softwares which would satisfy my problem.Finally I found the solution in Camtasia Studio which record my studies very well
 
