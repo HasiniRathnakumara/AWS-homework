@@ -30,5 +30,5 @@ link to it: https://www.youtube.com/watch?v=FhItnyCUe9g
 
 The problems I faced during not having linux version was solved by using putty instead.This was a really amazing opportunity for us to work with cloud academy.They were much user friendly and can understand what to do very clearly.
 
-
+  
 
