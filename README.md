@@ -6,7 +6,7 @@ The six practicles I underwent as follows
 
 1. Create your first Amazon EC2 instance (Linux)
 
-link to it: https://www.youtube.com/edit?video_id=fQ_oHkDH7cM
+link to it: https://www.youtube.com/watch?v=fQ_oHkDH7cM
 
 2. Create your first Amazon EC2 instance (Winodows)
 
